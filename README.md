@@ -37,10 +37,19 @@ An interactive Excel dashboard project built to analyze coffee shop sales perfor
 - Dataset 
 - Dashboard Screenshot
 
-## 🚀 Project Purpose
-The purpose of this project is to analyze coffee shop sales data and transform raw data into meaningful business insights using Microsoft Excel. This dashboard helps track revenue, profit, transactions, sales trends, and category performance through interactive visualizations.
+ ## Project Insights
+- Desserts generated the highest sales among all product categories.
+- Sales transactions remained consistent throughout the year with slight monthly variations.
+- Friday recorded the highest number of weekday transactions.
+- Revenue contribution was evenly distributed across different years.
+- Chicago contributed the highest share of revenue among all cities.
+- Monthly profit and revenue trends helped identify high-performing months.
+- Interactive filters made it easier to analyze sales data by month, year, and city.
 
-The project was created to improve data analytics, dashboard design, and business intelligence skills using Excel tools such as Pivot Tables, Pivot Charts, and Slicers.
+ ## Final Conclusion
+The Coffee Shop Sales Dashboard successfully transformed raw sales data into interactive and meaningful business insights using Microsoft Excel. Through data visualization and analysis, the project helped identify sales trends, top-performing categories, city-wise revenue distribution, and profit performance.
+
+This project enhanced practical skills in data analysis, dashboard development, and business intelligence while demonstrating how Excel can be used effectively for real-world data-driven decision-making.
 ## 📸 Dashboard Preview
 <img width="1162" height="600" alt="coffee" src="https://github.com/user-attachments/assets/6b2cdd40-ca2c-47bc-afed-bd52535e32a9" />
 
